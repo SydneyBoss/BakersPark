@@ -58,7 +58,7 @@ A complete food delivery application built with Java Spring Boot backend and Rea
 1. Install PostgreSQL if not already installed
 2. Create a new database:
    ```sql
-   CREATE DATABASE zomato_clone;
+   CREATE DATABASE BakersPark;
    ```
 3. Note down your database credentials
 
