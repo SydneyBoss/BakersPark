@@ -1,4 +1,4 @@
-# Zomato Clone - Full Stack Application
+# Bakers Park - Full Stack Application
 
 A complete food delivery application built with Java Spring Boot backend and React frontend.
 
